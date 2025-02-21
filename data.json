@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Bedside Modern Lamp",
+        "image": "/images/blue-lamp-bedroom-product-view1.jpg",
+        "price": "£49.00",
+        "description": "Describe the product here, and dont be shy! Tell visitors about the product's unique benefits and advantages. Why is this product special? Why is it better than other products that are similar to it? Give enough details so that people who decide to buy it know exactly what to expect."
+    },
+    {
+        "name": "Ceramic Design Vase",
+        "image": "/images/designe-ceramic-bicolor-vase-1920w.jpg",
+        "price": "£115.00",
+        "description": "Describe the product here, and dont be shy! Tell visitors about the product's unique benefits and advantages. Why is this product special? Why is it better than other products that are similar to it? Give enough details so that people who decide to buy it know exactly what to expect."
+    },
+    {
+        "name": "Glass Coffee Cup",
+        "image": "/images/design-glass-mug-1920w.jpg",
+        "price": "£39.00",
+        "description": "Describe the product here, and dont be shy! Tell visitors about the product's unique benefits and advantages. Why is this product special? Why is it better than other products that are similar to it? Give enough details so that people who decide to buy it know exactly what to expect."
+    },
+    {
+        "name": "Grey Ceramic Plate",
+        "image": "/images/grey-ceramic-plate-view1-800h.jpg",
+        "price": "£43.00",
+        "description": "Describe the product here, and dont be shy! Tell visitors about the product's unique benefits and advantages. Why is this product special? Why is it better than other products that are similar to it? Give enough details so that people who decide to buy it know exactly what to expect."
+    },
+    {
+        "name": "Handmade Wooden Bowl",
+        "image": "/images/wooden-design-salad-bowl-0h.jpg",
+        "price": "£49.00",
+        "description": "Describe the product here, and dont be shy! Tell visitors about the product's unique benefits and advantages. Why is this product special? Why is it better than other products that are similar to it? Give enough details so that people who decide to buy it know exactly what to expect."
+    },
+    {
+        "name": "Plain Design Cutlery",
+        "image": "/images/sliver-cutlery-1920w.jpg",
+        "price": "£89.00",
+        "originalPrice": "£129.00",
+        "description": "Describe the product here, and dont be shy! Tell visitors about the product's unique benefits and advantages. Why is this product special? Why is it better than other products that are similar to it? Give enough details so that people who decide to buy it know exactly what to expect."
+    },
+    {
+        "name": "Pure Cotton Bedding Set",
+        "image": "/images/grey-bed-linen-product-1-1920w.jpg",
+        "price": "£200.00",
+        "description": "Describe the product here, and dont be shy! Tell visitors about the product's unique benefits and advantages. Why is this product special? Why is it better than other products that are similar to it? Give enough details so that people who decide to buy it know exactly what to expect."
+    },
+    {
+        "name": "Recycle Wood Stool",
+        "image": "/images/scandinavian-wooden-stool-view2.jpg",
+        "price": "£115.00",
+        "description": "Describe the product here, and dont be shy! Tell visitors about the product's unique benefits and advantages. Why is this product special? Why is it better than other products that are similar to it? Give enough details so that people who decide to buy it know exactly what to expect."
+    },
+    {
+        "name": "Warm Woolen Slippers",
+        "image": "/images/store-sleeper-shooting.jpg",
+        "price": "£39.00",
+        "description": "Describe the product here, and dont be shy! Tell visitors about the product's unique benefits and advantages. Why is this product special? Why is it better than other products that are similar to it? Give enough details so that people who decide to buy it know exactly what to expect."
+    },
+    {
+        "name": "Wool Throw Blanket",
+        "image": "/images/grey-blanket-textil-view1.jpg",
+        "price": "£75.00",
+        "description": "Describe the product here, and dont be shy! Tell visitors about the product's unique benefits and advantages. Why is this product special? Why is it better than other products that are similar to it? Give enough details so that people who decide to buy it know exactly what to expect."
+    }
+]
